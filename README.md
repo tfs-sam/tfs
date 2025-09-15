@@ -1,4 +1,4 @@
-## Hi there 👋
+## We will open-source our code shortly after the paper is accepted.
 
 <!--
 **tfs-sam/TFS-SAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
